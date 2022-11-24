@@ -5,4 +5,4 @@ The purpose of ship classification is to identify various types of ships as
 accurately as possible, which is of great significance for monitoring the 
 rights and interests of maritime traffic and improving coastal defense early warnings. 
 
-THIS IS THE VIDEO LINK:https://drive.google.com/file/d/1oOy-XWI8ua7TAU2dKRliw1LPwJVfyiq9/view?usp=share_link
+THIS IS THE VIDEO LINK:https://drive.google.com/file/d/1oE7VKtEQb2vvMnr3NaJ8IQVfHE8QzLwS/view?usp=share_link
